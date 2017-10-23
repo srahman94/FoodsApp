@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "710720029701",
+    "firebase_url": "https://foods-app-83d9f.firebaseio.com",
+    "project_id": "foods-app-83d9f",
+    "storage_bucket": "foods-app-83d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710720029701:android:ca9e17ef816dad1c",
+        "android_client_info": {
+          "package_name": "com.example.sujon.foodsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710720029701-ie10i990f609e8lm5jaiq6aojqo9rv18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA11lXhQk6zi3NlcmZ-y9fjaM9p0NCI6nQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
